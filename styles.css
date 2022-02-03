@@ -1,0 +1,56 @@
+.img {
+    width: 900px;
+}    
+body{
+  background-color:black;
+}  
+h1{
+  background-color:green;
+}  
+
+.two {
+    width: 450px;
+    height: 500px;
+    padding-left: 100px;
+}
+.one {
+    width: 450px;
+    height: 500px;
+}
+.three {
+    width: 350px;
+    height: 400px;
+}
+
+button {
+    margin-top: 15px;
+}
+
+.reply {
+    padding: 15px;
+   border: 10px solid pink;
+    font-size:20px;
+    color:white;
+   font-family: 'Fjalla One', sans-serif;
+}
+.replyy {
+    padding: 15px;
+   border: 10px solid red;
+    font-size:20px;
+    color:white;
+    font-family: 'Fjalla One', sans-serif;
+}
+.replyyy {
+    padding: 15px;
+   border: 10px solid green;
+    font-size:20px;
+    color:white;
+    font-family: 'Fjalla One', sans-serif;
+}
+.yes {
+    
+    padding-left: 100px;
+    padding-right: 90px;
+    width: 680px;
+    border: 10px solid green;
+}
